@@ -1,0 +1,4 @@
+# Raw source footage (280 MB, fetched in-session; not part of the entry)
+src/
+# Local grader-shape run output
+out/
